@@ -21,6 +21,7 @@
 (sum-integers 1 10)
 
 
+
 ; 초간단 버젼 by @ahastudio
 
 (apply + (range 1 11))
